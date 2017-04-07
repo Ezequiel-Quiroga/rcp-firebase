@@ -1,0 +1,11 @@
+{
+	"revistaposadas":{
+		"articulos": 
+			[{"titulo":"prueba","tipo":"original","numero":"1","autores":"ezequiel","agradecimientos":"a nadie","resumen":"texto resumido","textofull":"texto original ampliado","palabrasclave":"paralabra1,palabra2","imgreferente":"ruta de la imagen","estado":"1"}],
+		"numeros": 
+			[{"numero":"1"},{"numero":"2"}],
+		"tipos": 
+			[{"tipo":"Artículo original"},{"tipo":"Archivo de Imágenes"}]
+
+	}
+}
