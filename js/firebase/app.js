@@ -11,8 +11,8 @@
 	firebase.initializeApp(config);
 
   	//referencia al objeto
-  	const preObject=document.getElementById('revistaposadas');
-  	const ulList=document.getElementById('articulos');
+  	const preObject=document.getElementById('revista');
+  	const ulList=document.getElementById('art');
   	//referencia al la bd
   	const dbRefObject=firebase.database().ref().child('revistaposadas');
   	const dbRefList=dbRefObject.child('articulos');
